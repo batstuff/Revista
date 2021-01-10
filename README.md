@@ -5,6 +5,6 @@ Revista para la asignatura de Análisis de los lenguajes artísticos
 1. Descomprimir archivo
 2. Click en ambas fuentes >>> instalar
 
-Rosa caracuel Morales
+Rosa Caracuel Morales
 
 Enero 2021
