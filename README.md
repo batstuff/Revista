@@ -7,5 +7,4 @@ Revista para la asignatura de Análisis de los lenguajes artísticos
 
 Rosa caracuel Morales
 
-
 Enero 2021
