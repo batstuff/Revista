@@ -1,5 +1,5 @@
 # Revista
-Revista para la asignatura de Análisis de los lenguajes artísticos
+Revista interactivapara la asignatura de Análisis de los lenguajes artísticos
 
 - Antes de visualizar descargar e instalar las fuentes del proyecto: [Determination.ttf](https://github.com/batstuff/revista/blob/main/determination.zip?raw=true)
 1. Descomprimir archivo
